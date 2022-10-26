@@ -1,0 +1,5 @@
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\den_nedeli\obj\Debug\net6.0\den_nedeli.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\den_nedeli\obj\Debug\net6.0\den_nedeli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\den_nedeli\obj\Debug\net6.0\den_nedeli.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\den_nedeli\obj\Debug\net6.0\den_nedeli.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\den_nedeli\obj\Debug\net6.0\den_nedeli.csproj.CoreCompileInputs.cache
