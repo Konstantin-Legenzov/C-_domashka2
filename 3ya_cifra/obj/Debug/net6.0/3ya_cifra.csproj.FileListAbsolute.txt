@@ -1,0 +1,15 @@
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\bin\Debug\net6.0\3ya_cifra.exe
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\bin\Debug\net6.0\3ya_cifra.deps.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\bin\Debug\net6.0\3ya_cifra.runtimeconfig.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\bin\Debug\net6.0\3ya_cifra.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\bin\Debug\net6.0\3ya_cifra.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\3ya_cifra.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\3ya_cifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\3ya_cifra.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\3ya_cifra.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\3ya_cifra.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\3ya_cifra.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\refint\3ya_cifra.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\3ya_cifra.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\3ya_cifra.genruntimeconfig.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\3ya_cifra\obj\Debug\net6.0\ref\3ya_cifra.dll
