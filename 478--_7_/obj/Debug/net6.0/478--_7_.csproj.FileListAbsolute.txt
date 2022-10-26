@@ -1,0 +1,15 @@
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\bin\Debug\net6.0\478--_7_.exe
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\bin\Debug\net6.0\478--_7_.deps.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\bin\Debug\net6.0\478--_7_.runtimeconfig.json
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\bin\Debug\net6.0\478--_7_.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\bin\Debug\net6.0\478--_7_.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\478--_7_.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\478--_7_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\478--_7_.AssemblyInfoInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\478--_7_.AssemblyInfo.cs
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\478--_7_.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\478--_7_.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\refint\478--_7_.dll
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\478--_7_.pdb
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\478--_7_.genruntimeconfig.cache
+C:\Users\Константин\Desktop\Легензов\конспекты лекций IT\ДЗ\дз_5_C#_2\478--_7_\obj\Debug\net6.0\ref\478--_7_.dll
